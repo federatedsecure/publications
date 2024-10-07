@@ -3,7 +3,7 @@
 ## Authors: Christian Goelz, Solveig Vieluf, Hendrik Ballhausen
 
 This repository contains the client-side code for testing the secure median algorithm implemented within the Federated Secure Computing framework and SIMON. The related publication "A Secure Median Implementation for the Federated Secure
-Computing Architecture" can be found [here](https://doi.org/10.3390/app1010000). Below are detailed instructions for running the code in a local deployment (Windows users should use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)).
+Computing Architecture" can be found [here](https://doi.org/10.3390/app14177891). Below are detailed instructions for running the code in a local deployment (Windows users should use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)).
 
 - [Installation](#installation)
 - [Run Benchmarking](#run-benchmarking)
